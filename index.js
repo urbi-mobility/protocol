@@ -2,7 +2,7 @@ const Web3 = require("web3");
 const web3 = new Web3("https://mainnet.infura.io/");
 
 const payload = {
-  nonce: Math.ceil(Math.random() * 1e18),
+  nonce: "" + Math.ceil(Math.random() * 1e18),
   firstName: "Gianni",
   lastName: "Cipolla",
   nationality: "IT",
