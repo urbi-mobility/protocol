@@ -4,15 +4,15 @@ Example:
 
 ```json
 {
-  "address": "0x84f6Dfb83853bC73D29336049Be24F902D16c51D",
-  "signature": "0x3957d5bb5418e857aa1800cf1039e6247daaa80b82325f6661db5df16035987c06d1d25cef84cda71369089421381dbe848462f4d45281fb65e19d8e37327d431c",
+  "address": "0xfff10570518357aB396992277fc4497F6cf05fC9",
+  "signature": "0xae656bfcfca0bbadfc76efa62462db785c0e45560d5d5486f22b0f6b92182b463bd1255e0d4d0d1b657f57bfbf5f84609cce1f810f43d93d89692b6fa1f77b811b",
   "payload": {
-    "nonce": "268634814874522340",
+    "nonce": "504473516165537150",
     "firstName": "Gianni",
     "lastName": "Cipolla",
     "nationality": "IT",
     "birthDate": "1950-01-22",
-    "birthNation": "Italy",
+    "birthCountry": "Italy",
     "birthProvince": "GE",
     "birthLocality": "Arenzano",
     "address": "Via Tasso 11",

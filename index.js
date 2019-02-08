@@ -7,7 +7,7 @@ const payload = {
   lastName: "Cipolla",
   nationality: "IT",
   birthDate: "1950-01-22",
-  birthNation: "Italy",
+  birthCountry: "Italy",
   birthProvince: "GE",
   birthLocality: "Arenzano",
   address: "Via Tasso 11",
