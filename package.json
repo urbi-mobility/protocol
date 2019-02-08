@@ -1,0 +1,17 @@
+{
+  "name": "proofs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "web3": "^1.0.0-beta.43",
+    "web3-eth": "^1.0.0-beta.43",
+    "web3-eth-accounts": "^1.0.0-beta.43"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
